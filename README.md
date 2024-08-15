@@ -1,1 +1,1 @@
-# Personal-Expense-Tracker
+This Expense Management Application, developed using the MERN stack (MongoDB, Express.js, React.js, Node.js), allows users to efficiently manage their expenses by adding, viewing, editing, and deleting entries with details such as date, amount, category, and description. The application comes with default expense categories and allows users to create custom categories, ensuring better organization and tailored expense tracking.
